@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "786030235293",
+    "project_id": "default-demo-app-cd0cc"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786030235293:android:e57a811a157204b3",
+        "android_client_info": {
+          "package_name": "com.ashwani.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786030235293-m5fltiim9ae1oaovm1ovsl5ru5d482f3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashwani.demoapp",
+            "certificate_hash": "3121E7B20DCC7489D24C7507AE5C0D5855F006D2"
+          }
+        },
+        {
+          "client_id": "786030235293-j640nfn57lq8ocl4iv6lmu54tmn09rhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUQ9bt607dW61eCSxCL4WQvFxNvoInuQQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

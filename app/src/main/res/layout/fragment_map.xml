@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ashwani.Fragments.MapFragment">
+
+    <!-- <com.google.android.gms.maps.MapView
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />-->
+
+    <WebView
+        android:id="@+id/map_web_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></WebView>
+
+</FrameLayout>
