@@ -45,7 +45,7 @@ public class LoginActivity extends AppCompatActivity {
     ProgressBar progressBar;
     AppPreferences appPreferences;
 
-    String TAG = "LoginActivitasdfsdy";
+    String TAG = "LoginActivityLog";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
